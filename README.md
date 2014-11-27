@@ -1,4 +1,5 @@
 JChat
 =====
 
-A Simple and Fast multi-users Chat in Java
+A Simple and Secure multi-users Chat in Java.
+All connections are encrypted in AES 256.
